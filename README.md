@@ -1,4 +1,3 @@
-# PREDICTIVE-ANALYTICS-FOR-THE-ANALYSIS-OF-RESPIRATORY-DISORDERS
 # Predictive Analytics for the Diagnosis of Respiratory Diseases
 
 ## Project Overview
